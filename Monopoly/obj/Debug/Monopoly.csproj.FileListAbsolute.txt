@@ -1,0 +1,9 @@
+c:\users\jackwang\documents\visual studio 2013\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\JackWang\documents\visual studio 2013\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
