@@ -3,14 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace Monopoly
 {
     class Player
     {
         public string Name { get; set; }
-        public string Assest { get; set; } // 應該會用泛型做
+        public List<string> Assest = new List<string>();
         public int Cash { get; set; }
-        public string Color { get; set; }
+        public Color Color { get; set; }
+        public Point Position { get; set; }
+        public int PositionIndex { get; set; }
     }
 }

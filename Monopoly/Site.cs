@@ -13,6 +13,7 @@ namespace Monopoly
         public string Name { get; set; }
         public int Price { get; set; }
         public int Level { get; set; }
+        public Player Owned { get; set; }
         public Point Position { get; set; }
     }
 }
